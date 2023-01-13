@@ -1,0 +1,16 @@
+{
+  "name": "sparkwise",
+  "version": "1.0.0",
+  "description": "technical interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
+    "json2csv": "^5.0.7"
+  }
+}
